@@ -1,10 +1,6 @@
 <h1 align="center">Hola 👋, Soy Cristian Ayala Sánchez</h1>
 <h3 align="center">Un apasionado desarrollador frontend de España</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristiann05&label=Profile%20views&color=0e75b6&style=flat" alt="cristiann05" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristiann05" alt="cristiann05" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/cristian_as05" target="blank"><img src="https://img.shields.io/twitter/follow/cristian_as05?logo=twitter&style=for-the-badge" alt="cristian_as05" /></a> </p>
 
 - 🌱 Actualmente estoy aprendiendo **Html, Css, Javascript**
@@ -28,8 +24,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cristian_as05"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cristian_as05" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiann05&show_icons=true&locale=en&layout=compact" alt="cristiann05" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristiann05&show_icons=true&locale=en" alt="cristiann05" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiann05&show_icons=true&locale=en&layout=compact" alt="cristiann05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristiann05&" alt="cristiann05" /></p>
+
