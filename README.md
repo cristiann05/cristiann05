@@ -24,9 +24,6 @@ Smokeless es una aplicación diseñada para ayudar a las personas a dejar de fum
 - **Desarrollo Back-End:** Python, Flask, Java, SQL, APIs RESTful, JWT  
 - **Proyectos Adicionales:** He desarrollado aplicaciones de chat en tiempo real utilizando APIs RESTful, OpenAI, Leaflet para mapas interactivos y Cloudinary para la gestión de imágenes. Estas tecnologías me han permitido crear soluciones innovadoras y dinámicas.
 
-🌐 **Enlace a GitHub**  
-Explora mis proyectos y contribuciones en GitHub. ¡Estoy abierto a recibir tus comentarios y sugerencias! 🔗 [GitHub de Cristian Ayala Sánchez](https://github.com/cristiann05)
-
 📫 **Contacto**  
 ¿Te interesa colaborar en un proyecto o simplemente charlar sobre tecnología? No dudes en contactarme a través de **LinkedIn** o enviarme un correo electrónico: ayalasanchezcristian2000@gmail.com.
 
