@@ -47,7 +47,10 @@ Smokeless es una aplicación diseñada para ayudar a las personas a dejar de fum
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%234791A4.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ---
 
