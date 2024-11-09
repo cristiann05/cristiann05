@@ -1,5 +1,8 @@
-# 💫 **Sobre mí**
+# 👋 ¡Hola! Soy Cristian Ayala Sánchez
+
 **Full Stack Developer** con experiencia en tecnologías clave como **JavaScript**, **React**, **Python**, **Flask**, **SQL** y **Java**. Me especializo en el desarrollo de soluciones web escalables, eficientes y con un enfoque en la experiencia de usuario. Mi objetivo es utilizar mi habilidad técnica y mi creatividad para construir aplicaciones robustas y funcionales que resuelvan problemas reales.
+
+![RGB Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 ### **Áreas de especialización**:
 - **Frontend:** HTML5, CSS3, JavaScript, React, TailwindCSS, Bootstrap  
@@ -25,10 +28,10 @@
 ---
 
 # 🌐 **Redes Sociales**
-- [**LinkedIn**](https://linkedin.com/in/cristian-ayala-sánchez-1a4157307)
-- [**Instagram**](https://instagram.com/cristian_as05)
-- [**X**](https://x.com/cristian_as05)
-- [**CodePen**](https://codepen.io/cristian_as05)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-ayala-sánchez-1a4157307)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cristian_as05)
+- [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/cristian_as05)
+- [![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=Codepen&logoColor=white)](https://codepen.io/cristian_as05)
 
 ---
 
@@ -57,10 +60,16 @@ Estoy siempre dispuesto a colaborar en proyectos innovadores y aprender nuevas t
 
 # 📊 **Estadísticas de GitHub**
 
-**Mis contribuciones en GitHub:**
+### **Mis contribuciones en GitHub:**
 
 ![](https://github-readme-stats.vercel.app/api?username=Cristiann05&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cristiann05&theme=highcontrast&hide_border=false)  
+
+---
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cristiann05&theme=highcontrast&hide_border=false)
+
+---
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiann05&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
