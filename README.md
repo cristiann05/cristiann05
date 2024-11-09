@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Cristian Ayala Sánchez
+# ![Saludo](https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif) **¡Hola! Soy Cristian Ayala Sánchez**
 
 **Full Stack Developer** con experiencia en tecnologías clave como **JavaScript**, **React**, **Python**, **Flask**, **SQL** y **Java**. Me especializo en el desarrollo de soluciones web escalables, eficientes y con un enfoque en la experiencia de usuario. Mi objetivo es utilizar mi habilidad técnica y mi creatividad para construir aplicaciones robustas y funcionales que resuelvan problemas reales.
 
