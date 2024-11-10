@@ -7,7 +7,7 @@
 ### **Áreas de especialización**:
 - **Frontend:** HTML5, CSS3, JavaScript, React, TailwindCSS, Bootstrap  
 - **Backend:** Python, Flask, Java, APIs RESTful, JWT, SQL  
-- **Bases de datos:** SQL, PostgreSQL  
+- **Bases de datos:** SQL, SQLAlchemy, PostgreSQL, MongoDB 
 - **Control de versiones:** Git, GitHub  
 - **Otras tecnologías:** OpenAI API, Leaflet.js, Cloudinary
 
