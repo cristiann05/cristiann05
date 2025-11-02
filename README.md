@@ -84,8 +84,7 @@ Estoy siempre dispuesto a colaborar en proyectos innovadores y aprender nuevas t
 ---
 
 ### ⌛ Mi actividad en WakaTime
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=cristian_as05)](https://wakatime.com/@cristian_as05)
-
+[![wakatime](https://wakatime.com/badge/user/2325956e-f5d4-4ad7-848c-c3c7e6bb4db9/project/4d6fe1e5-8b6a-4671-a9ee-fc8d4c903216.svg)](https://wakatime.com/badge/user/2325956e-f5d4-4ad7-848c-c3c7e6bb4db9/project/4d6fe1e5-8b6a-4671-a9ee-fc8d4c903216)
 ---
 
 # 👀 **Visitas a mi perfil**  
