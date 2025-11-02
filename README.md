@@ -84,7 +84,7 @@ Estoy siempre dispuesto a colaborar en proyectos innovadores y aprender nuevas t
 ---
 
 ### ⌛ Mi actividad en WakaTime
-![WakaTime](https://wakatime.com/share/@Cristiann05/all.svg)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=cristian_as05)](https://wakatime.com/@cristian_as05)
 
 ---
 
