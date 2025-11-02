@@ -83,6 +83,11 @@ Estoy siempre dispuesto a colaborar en proyectos innovadores y aprender nuevas t
 
 ---
 
+### ⌛ Mi actividad en WakaTime
+![WakaTime](https://wakatime.com/share/@Cristiann05/all.svg)
+
+---
+
 # 👀 **Visitas a mi perfil**  
 [![](https://visitcount.itsvg.in/api?id=Cristiann05&icon=0&color=0)](https://visitcount.itsvg.in)
 
